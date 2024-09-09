@@ -1,0 +1,5 @@
+.row,
+.col {
+    border: 1px solid gainsboro;
+    background-color: #09c959;
+}
