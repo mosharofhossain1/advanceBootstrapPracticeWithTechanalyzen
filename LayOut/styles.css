@@ -44,7 +44,7 @@
     }
 } */
 
-@media screen and (max-width: 1399.98px) {
+/* @media screen and (max-width: 1399.98px) {
     body {
 
         background-color: bisque;
@@ -72,5 +72,16 @@
 @media screen and (max-width: 575.98px) {
     body {
         background-color: silver;
+    }
+} */
+/*  */
+
+
+/* Between Brackpoints  */
+
+
+@media (min-width:768px) and (max-width: 992px) {
+    body {
+        background-color: rgb(7, 236, 95);
     }
 }
